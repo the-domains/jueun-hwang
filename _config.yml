@@ -1,7 +1,7 @@
 name: Jueun Hwang
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.5286738
+layout_spectrum: 0.21484
+typography_spectrum: 0.6079
 collections:
   - index:
       path: /
