@@ -1,7 +1,7 @@
 name: Jueun Hwang
 favicon: null
-layout_spectrum: 0.9304833936039358
-typography_spectrum: 0.5964789369609207
+layout_spectrum: 0.49229
+typography_spectrum: 0.11368
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5391327957622707
+    - '#000000'
+    - '#d21e4f'
+    - '#cacac9'
+    - '#fdfdfd'
+    - '#bc6e40'
+  brandStrength: 0.625
   lightness: 0.5614330398384482
-  saturation: 0.7652107733301818
+  saturation: 0.875
   rhythmicContrast: 0.6699601439759135
 purpose: []
