@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jueun Hwang]]></title>
-        <description><![CDATA[Jueun Hwang]]></description>
+        <title><![CDATA[[Jueun Hwang]]]></title>
+        <description><![CDATA[[Jueun Hwang]]]></description>
         <link>https://thegrid.ai/jueun-hwang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 20:27:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jueun-hwang/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/jueun-hwang/a244feef-a3a9-4c18-8b90-3e6fdfd0847e/index.html</link>
             <guid isPermaLink="false">a244feef-a3a9-4c18-8b90-3e6fdfd0847e</guid>
             <pubDate>Thu, 14 Apr 2016 20:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/jueun-hwang/fa5d7063-a6c4-4b8b-9e25-8281af145042/index.html</link>
+            <guid isPermaLink="false">fa5d7063-a6c4-4b8b-9e25-8281af145042</guid>
+            <pubDate>Thu, 14 Apr 2016 20:27:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
