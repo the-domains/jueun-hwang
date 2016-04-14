@@ -1,28 +1,40 @@
-name: Jueun Hwang
 favicon: null
-layout_spectrum: 0.49229
-typography_spectrum: 0.09827
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Jueun Hwang
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#f12b24'
-    - '#74899e'
-    - '#413df6'
-  brandStrength: 0.6875
-  lightness: 0.0625
-  saturation: 0.875
-  rhythmicContrast: 0.6699601439759135
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4318996
+  brandStrength: 0.2473118
+  lightness: 0.4086021
+  brandColors:
+    - '#BF7601'
+    - '#372115'
+    - '#E0E0E0'
+    - '#FFB554'
+    - '#C69142'
+  rhythmicContrast: 0.1308244
+typography_spectrum: 0.5286738
+layout_spectrum: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
