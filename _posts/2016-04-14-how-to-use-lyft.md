@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T20:44:50.546Z'
-dateModified: '2016-04-27T20:40:15.408Z'
-title: HOW TO USE LYFT
+datePublished: '2016-04-27T21:15:41.720Z'
+dateModified: '2016-04-27T21:15:24.616Z'
+title: ' '
 author:
   - name: ''
     url: ''
@@ -24,5 +24,4 @@ url: how-to-use-lyft/index.html
 _type: Article
 
 ---
-# HOW TO USE LYFT
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7b6f195-3e47-4d99-b9f7-7f11902db60c.png)
+# ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9bf00863d92904920d7fac0f8ccbf5e6e2811c8.png)
