@@ -4,7 +4,7 @@
         <description><![CDATA[Jueun Hwang]]></description>
         <link>https://thegrid.ai/jueun-hwang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 21:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 21:15:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jueun-hwang/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[JUEUN HWANG SIZZLE REEL]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jueun-hwang/a244feef-a3a9-4c18-8b90-3e6fdfd0847e/index.html</link>
             <guid isPermaLink="false">a244feef-a3a9-4c18-8b90-3e6fdfd0847e</guid>
             <pubDate>Wed, 27 Apr 2016 20:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91610aba08c3adf6f74c7e6d35159c0c0f3e1bf7.png"></article>]]></description>
+            <link>https://thegrid.ai/jueun-hwang/how-to-use-lyft/index.html</link>
+            <guid isPermaLink="false">e4887064-7f04-4814-89e3-1e851c46ed84</guid>
+            <pubDate>Wed, 27 Apr 2016 21:15:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AirPR Logo Animation]]></title>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/jueun-hwang/c4e22519-44ee-4cbb-a28e-6f53fc16b468/index.html</link>
             <guid isPermaLink="false">c4e22519-44ee-4cbb-a28e-6f53fc16b468</guid>
             <pubDate>Wed, 27 Apr 2016 21:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HOW TO USE LYFT]]></title>
-            <description><![CDATA[<article><h1>HOW TO USE LYFT</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91610aba08c3adf6f74c7e6d35159c0c0f3e1bf7.png"></article>]]></description>
-            <link>https://thegrid.ai/jueun-hwang/how-to-use-lyft/index.html</link>
-            <guid isPermaLink="false">e4887064-7f04-4814-89e3-1e851c46ed84</guid>
-            <pubDate>Wed, 27 Apr 2016 20:44:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
