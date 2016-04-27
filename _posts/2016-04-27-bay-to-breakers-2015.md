@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T20:32:34.294Z'
-dateModified: '2016-04-27T20:32:10.122Z'
+datePublished: '2016-04-27T21:13:37.018Z'
+dateModified: '2016-04-27T20:55:16.891Z'
 title: BAY TO BREAKERS 2015
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-27-bay-to-breakers-2015.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,13 +20,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-bay-to-breakers-2015.md
-published: true
 url: bay-to-breakers-2015/index.html
 _type: Article
 
 ---
 ## [BAY TO BREAKERS 2015][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4587d9e-e094-4d39-84e5-95a954c64e3f.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad222a136b4da8153a5b7f51dfe81e7cfa1e0c27.png)
 
 [0]: https://www.youtube.com/watch?v=2zsk0Pg3zuw
