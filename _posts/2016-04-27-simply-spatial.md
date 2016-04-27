@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T21:41:27.493Z'
-dateModified: '2016-04-27T21:41:25.684Z'
-title: ' '
+datePublished: '2016-04-27T21:42:27.233Z'
+dateModified: '2016-04-27T21:42:24.626Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -24,4 +24,4 @@ url: simply-spatial/index.html
 _type: Article
 
 ---
-# ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/126e6e9685b90cad5190ccc99256e2511971a853.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/126e6e9685b90cad5190ccc99256e2511971a853.png)
