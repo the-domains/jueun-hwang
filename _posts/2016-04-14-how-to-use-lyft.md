@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: How to Use Lyft
-datePublished: '2016-04-27T20:13:44.441Z'
-dateModified: '2016-04-27T20:13:16.238Z'
-title: ''
-author: []
+description: ''
+datePublished: '2016-04-27T20:36:02.572Z'
+dateModified: '2016-04-27T20:13:51.889Z'
+title: How to Use Lyft
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-14-how-to-use-lyft.md
 published: true
 authors: []
