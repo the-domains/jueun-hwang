@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T21:14:13.268Z'
-dateModified: '2016-04-27T21:05:37.305Z'
+datePublished: '2016-04-27T21:28:09.978Z'
+dateModified: '2016-04-27T21:14:24.093Z'
 title: SIMPLY SPATIAL
 author:
   - name: ''
