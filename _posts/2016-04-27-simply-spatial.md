@@ -4,11 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Simply Spatial
-datePublished: '2016-04-27T20:24:22.459Z'
-dateModified: '2016-04-27T20:23:52.226Z'
-title: ''
-author: []
+description: ''
+datePublished: '2016-04-27T21:14:13.268Z'
+dateModified: '2016-04-27T21:05:37.305Z'
+title: SIMPLY SPATIAL
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-27-simply-spatial.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +20,9 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-simply-spatial.md
-published: true
 url: simply-spatial/index.html
 _type: Article
 
 ---
-[_Simply Spatial_][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff841d9d-4f38-412c-ba29-5e5b2cc34857.png)
-
-[0]: https://www.youtube.com/watch?v=xjEgP9DYBek
+# SIMPLY SPATIAL
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/126e6e9685b90cad5190ccc99256e2511971a853.png)
