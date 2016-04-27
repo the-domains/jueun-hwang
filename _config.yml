@@ -1,6 +1,6 @@
 name: Jueun Hwang
 favicon: null
-layout_spectrum: 0.7707
+layout_spectrum: 0.74373
 typography_spectrum: 0.6079
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#8b8a6f'
     - '#fcfbe5'
     - '#e5b4db'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 0.4318996
   rhythmicContrast: 1
