@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T21:28:09.978Z'
-dateModified: '2016-04-27T21:14:24.093Z'
-title: SIMPLY SPATIAL
+datePublished: '2016-04-27T21:41:27.493Z'
+dateModified: '2016-04-27T21:41:25.684Z'
+title: ' '
 author:
   - name: ''
     url: ''
@@ -24,5 +24,4 @@ url: simply-spatial/index.html
 _type: Article
 
 ---
-# SIMPLY SPATIAL
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/126e6e9685b90cad5190ccc99256e2511971a853.png)
+# ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/126e6e9685b90cad5190ccc99256e2511971a853.png)
