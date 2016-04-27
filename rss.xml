@@ -4,7 +4,7 @@
         <description><![CDATA[Jueun Hwang]]></description>
         <link>https://thegrid.ai/jueun-hwang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 21:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 21:27:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jueun-hwang/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[JUEUN HWANG DEMO REEL]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/jueun-hwang/a244feef-a3a9-4c18-8b90-3e6fdfd0847e/index.html</link>
             <guid isPermaLink="false">a244feef-a3a9-4c18-8b90-3e6fdfd0847e</guid>
             <pubDate>Wed, 27 Apr 2016 21:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASTINOVA]]></title>
+            <description><![CDATA[<article><h1>ASTINOVA</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7690ea25d11541b3437760a50a6d291c3b3ec730.png"></article>]]></description>
+            <link>https://thegrid.ai/jueun-hwang/astinova/index.html</link>
+            <guid isPermaLink="false">b4d05c32-4bdd-456b-9379-2f2331ce2a92</guid>
+            <pubDate>Wed, 27 Apr 2016 21:27:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BAY TO BREAKERS 2015]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jueun-hwang/simply-spatial/index.html</link>
             <guid isPermaLink="false">ec86dc0d-f61e-44d2-b5bf-abe16bfc515c</guid>
             <pubDate>Wed, 27 Apr 2016 21:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ASTINOVA]]></title>
-            <description><![CDATA[<article><h1>ASTINOVA</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7690ea25d11541b3437760a50a6d291c3b3ec730.png"></article>]]></description>
-            <link>https://thegrid.ai/jueun-hwang/astinova/index.html</link>
-            <guid isPermaLink="false">b4d05c32-4bdd-456b-9379-2f2331ce2a92</guid>
-            <pubDate>Wed, 27 Apr 2016 21:13:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
