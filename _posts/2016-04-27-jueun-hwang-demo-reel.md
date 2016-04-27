@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T21:13:21.259Z'
-dateModified: '2016-04-27T21:06:01.824Z'
+datePublished: '2016-04-27T21:26:30.930Z'
+dateModified: '2016-04-27T21:19:15.161Z'
 title: JUEUN HWANG DEMO REEL
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: jueun-hwang-demo-reel/index.html
 _type: Article
 
