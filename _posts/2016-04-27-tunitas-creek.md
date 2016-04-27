@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T21:24:03.191Z'
-dateModified: '2016-04-27T21:23:42.538Z'
-title: ''
-author: []
+datePublished: '2016-04-27T21:26:06.881Z'
+dateModified: '2016-04-27T21:24:06.295Z'
+title: TUNITAS CREEK
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-27-tunitas-creek.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-tunitas-creek.md
-published: true
 url: tunitas-creek/index.html
 _type: Article
 
