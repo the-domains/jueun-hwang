@@ -4,7 +4,7 @@
         <description><![CDATA[VIDEO EDITOR / VIDEO PRODUCER/ VIDEO GRAPHER]]></description>
         <link>https://thegrid.ai/jueun-hwang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 03:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 03:50:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jueun-hwang/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jueun Hwang Sizzle Reel]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/jueun-hwang/jueun-hwang-demo-reel/index.html</link>
             <guid isPermaLink="false">2da3d208-bfb2-4edf-9049-f386f96e18f9</guid>
             <pubDate>Wed, 27 Apr 2016 21:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MOUNTAIN HOME INN]]></title>
+            <description><![CDATA[<article><h1>MOUNTAIN HOME INN</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1bfae6c57e92720cb5d7441ceb6632cedc2c905.png"></article>]]></description>
+            <link>https://thegrid.ai/jueun-hwang/mountain-home-inn/index.html</link>
+            <guid isPermaLink="false">b4bbdb6b-978d-4c64-9ff1-70c9b4c8fbd1</guid>
+            <pubDate>Thu, 28 Apr 2016 03:50:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[VISIT MARIN(MARIN CONVENTION & VISITORS BUREAU)]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jueun-hwang/sea-otter-classic-2015/index.html</link>
             <guid isPermaLink="false">a7f3922b-4286-4666-a56d-519f351c1e99</guid>
             <pubDate>Wed, 27 Apr 2016 21:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BE YOUR OWN KIND OF BEAUTIFUL]]></title>
-            <description><![CDATA[<article><h1>BE YOUR OWN KIND OF BEAUTIFUL</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f698f5852a33db262971042d3a94107abed4268.png"></article>]]></description>
-            <link>https://thegrid.ai/jueun-hwang/c4e22519-44ee-4cbb-a28e-6f53fc16b468/index.html</link>
-            <guid isPermaLink="false">c4e22519-44ee-4cbb-a28e-6f53fc16b468</guid>
-            <pubDate>Wed, 27 Apr 2016 21:26:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
