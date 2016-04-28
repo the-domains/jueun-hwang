@@ -1,21 +1,30 @@
 ---
-description: 'Recommendations A preview of what LinkedIn members have to say about Jueun: Jueun Hwang is an exceptional editor who combines talent and creativity with a professional sense of getting the job done on time. Her video is beautifully framed, lit and steadily shot. Her editing is expertly paced and always perfectly laid out. She has a warm personality and works well on her own or with a team. I enthusiastically recommend her. See more'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile'
+inLanguage: null
+keywords: []
+description: '" Jueun Hwang is an exceptional editor who combines talent and creativity with a professional sense of getting the job done on time. Her video is beautifully framed, lit and steadily shot. Her editing is expertly paced and always perfectly laid out. She has a warm personality and works well on her own or with a team. I enthusiastically recommend her"'
+datePublished: '2016-04-28T04:07:53.316Z'
+dateModified: '2016-04-28T04:07:21.992Z'
 author: []
-datePublished: '2016-04-28T04:03:19.324Z'
-publisher:
-  domain: www.linkedin.com
-  name: linkedin.com
-dateModified: '2016-04-28T04:02:24.399Z'
 title: ''
-starred: false
 sourcePath: _posts/2016-04-28-recommendations-a-preview-of-what-linkedin-members-have-to-s.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: recommendations-a-preview-of-what-linkedin-members-have-to-s/index.html
+authors: []
+publisher:
+  name: linkedin.com
+  domain: www.linkedin.com
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
-Recommendations A preview of what LinkedIn members have to say about Jueun: Jueun Hwang is an exceptional editor who combines talent and creativity with a professional sense of getting the job done on time. Her video is beautifully framed, lit and steadily shot. Her editing is expertly paced and always perfectly laid out. She has a warm personality and works well on her own or with a team. I enthusiastically recommend her. See more
+" Jueun Hwang is an exceptional editor who combines talent and creativity with a professional sense of getting the job done on time. Her video is beautifully framed, lit and steadily shot. Her editing is expertly paced and always perfectly laid out. She has a warm personality and works well on her own or with a team. I enthusiastically recommend her"
+
+[CLICK HERE][0] to go to Jueun Hwang's LinkedIn Profile
+
+[0]: www.linkedin.com/in/jueunhwang
