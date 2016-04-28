@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.linkedin.com/profile/public-profile-settings?trk=prof
 inLanguage: null
 keywords: []
 description: '" Jueun Hwang is an exceptional editor who combines talent and creativity with a professional sense of getting the job done on time. Her video is beautifully framed, lit and steadily shot. Her editing is expertly paced and always perfectly laid out. She has a warm personality and works well on her own or with a team. I enthusiastically recommend her"'
-datePublished: '2016-04-28T04:07:53.316Z'
-dateModified: '2016-04-28T04:07:21.992Z'
+datePublished: '2016-04-28T04:14:41.159Z'
+dateModified: '2016-04-28T04:11:03.170Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-28-recommendations-a-preview-of-what-linkedin-members-have-to-s.md
@@ -25,6 +25,6 @@ _type: Article
 ---
 " Jueun Hwang is an exceptional editor who combines talent and creativity with a professional sense of getting the job done on time. Her video is beautifully framed, lit and steadily shot. Her editing is expertly paced and always perfectly laid out. She has a warm personality and works well on her own or with a team. I enthusiastically recommend her"
 
-[CLICK HERE][0] to go to Jueun Hwang's LinkedIn Profile
+[CLICK HERE][0] to see Jueun Hwang's LinkedIn Profile.
 
 [0]: www.linkedin.com/in/jueunhwang
