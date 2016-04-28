@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T03:52:52.445Z'
-dateModified: '2016-04-28T03:52:37.518Z'
+datePublished: '2016-04-28T03:58:17.185Z'
+dateModified: '2016-04-28T03:58:09.652Z'
 title: MOUNTAIN HOME INN
 author:
   - name: ''
@@ -25,4 +25,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fcad830-8aff-4c3b-9c3b-07d5751211b7.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03d9afed-08ad-496d-8d59-43ddab240bb3.png)
