@@ -16,8 +16,8 @@ keywords:
   - jongro-gu
   - producers
 description: Video Editor / Video Producer / Videographer
-datePublished: '2016-05-02T00:12:32.343Z'
-dateModified: '2016-05-02T00:09:04.992Z'
+datePublished: '2016-05-02T00:15:35.672Z'
+dateModified: '2016-05-02T00:14:06.330Z'
 author:
   - name: ''
     url: ''
@@ -32,7 +32,7 @@ publisher:
   domain: www.linkedin.com
   url: 'http://linkedin.com'
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
