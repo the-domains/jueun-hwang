@@ -5,20 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-25T19:51:21.471Z'
-dateModified: '2016-08-25T19:51:20.633Z'
+datePublished: '2016-08-25T20:43:11.403Z'
+dateModified: '2016-08-25T20:42:55.874Z'
 title: SEA OTTER CLASSIC 2015
 author:
   - name: ''
     url: 'https://www.youtube.com/watch?v=ucfh6rdNTSU'
 sourcePath: _posts/2016-05-04-sea-otter-classic-2015.md
+via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
-via: {}
 starred: true
 url: sea-otter-classic-2015/index.html
 _type: Article
